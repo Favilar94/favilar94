@@ -1,7 +1,5 @@
-### Hi there 👋 I'm Alejandro Favila Rivera an software enthusiastic
-
-- 🔭 I'm currently working on a new version of my personal webpage
-- 🌱 I’m currently learning Graph theory and Algorithms
+### Hi there 👋 I'm Alejandro Favila Rivera, a software engineer.
+- 🔭 I'm currently working as a Sr. Software Engineer at Honeywell.
+- 🌱 I’m currently pursuing a Master's in Software Engineering in UTD.
 - 💬 Ask me about gardening or astronomy.
 - 📫 How to reach me: favilar94@gmail.com
-
